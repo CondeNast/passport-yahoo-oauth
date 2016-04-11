@@ -1,5 +1,5 @@
 {
-  "name": "passport-yahoo-oauth",
+  "name": "@condenast/passport-yahoo-oauth",
   "version": "0.1.3",
   "description": "Yahoo! (OAuth) authentication strategy for Passport.",
   "keywords": ["passport", "yahoo", "auth", "authn", "authentication", "identity"],
